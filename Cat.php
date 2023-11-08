@@ -1,6 +1,5 @@
 <?php
 
-namespace gonnakms;
 class Cat
 {
     public $name;
